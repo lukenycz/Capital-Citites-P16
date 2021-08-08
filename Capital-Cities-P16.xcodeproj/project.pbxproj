@@ -14,6 +14,7 @@
 		10827AD826BBF4F9005BCBE0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 10827AD726BBF4F9005BCBE0 /* Assets.xcassets */; };
 		10827ADB26BBF4F9005BCBE0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 10827AD926BBF4F9005BCBE0 /* LaunchScreen.storyboard */; };
 		10827AE426BBF837005BCBE0 /* Capital.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10827AE326BBF837005BCBE0 /* Capital.swift */; };
+		10827AE726C05C92005BCBE0 /* CapitalInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10827AE626C05C92005BCBE0 /* CapitalInfoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		10827ADA26BBF4F9005BCBE0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		10827ADC26BBF4F9005BCBE0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		10827AE326BBF837005BCBE0 /* Capital.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Capital.swift; sourceTree = "<group>"; };
+		10827AE626C05C92005BCBE0 /* CapitalInfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CapitalInfoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				10827AD026BBF4F0005BCBE0 /* SceneDelegate.swift */,
 				10827AD226BBF4F0005BCBE0 /* ViewController.swift */,
 				10827AE326BBF837005BCBE0 /* Capital.swift */,
+				10827AE626C05C92005BCBE0 /* CapitalInfoViewController.swift */,
 				10827AD426BBF4F0005BCBE0 /* Main.storyboard */,
 				10827AD726BBF4F9005BCBE0 /* Assets.xcassets */,
 				10827AD926BBF4F9005BCBE0 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				10827AD326BBF4F0005BCBE0 /* ViewController.swift in Sources */,
+				10827AE726C05C92005BCBE0 /* CapitalInfoViewController.swift in Sources */,
 				10827ACF26BBF4F0005BCBE0 /* AppDelegate.swift in Sources */,
 				10827AE426BBF837005BCBE0 /* Capital.swift in Sources */,
 				10827AD126BBF4F0005BCBE0 /* SceneDelegate.swift in Sources */,
